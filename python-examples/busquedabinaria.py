@@ -1,3 +1,4 @@
+objetivo = int(input("Ingrese un valor: "))
 epsilon = 0.01
 bajo = 0.0
 alto = max(1.0, objetivo)
